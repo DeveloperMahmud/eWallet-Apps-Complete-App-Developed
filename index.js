@@ -181,7 +181,7 @@ function showTotalBalance(){
 function sep(amount){
     amount=parseInt(amount);
     return amount.toLocaleString();
-}
+};
 
 
 
